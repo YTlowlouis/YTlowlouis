@@ -1,6 +1,6 @@
 # 💫 About Me:
 ![42 Student](https://img.shields.io/badge/42-Student-black?style=for-the-badge)
-![Neovim](https://img.shields.io/badge/Neovim-grey?style=for-the-badge)
+![Neovim](https://img.shields.io/badge/Neovim-grey?style=for-the-badge)<br>
 🔭 I’m currently a student at 42nice<br>🤝 I’m looking for help with finding a j word<br>🌱 I’m currently learning python<br>💻​I'm currently working on a paper trading project<br>
 
 
