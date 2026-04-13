@@ -1,5 +1,7 @@
 # 💫 About Me:
-![Neovim](https://img.shields.io/badge/Neovim-grey?style=for-the-badge)<br>
+<p align="left">
+  <img src="https://img.shields.io/badge/Student-000000?style=for-the-badge&logo=42&logoColor=white" />
+<img src="https://img.shields.io/badge/Neovim-db87b3?style=for-the-badge&logo=neovim&logoColor=fff" /></p>
 🔭 I’m currently a student at 42nice<br>🤝 I’m looking for help with finding a j word<br>🌱 I’m currently learning python<br>💻​I'm currently working on a paper trading project<br>
 
 
@@ -10,8 +12,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=YTlowlouis&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=YTlowlouis&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YTlowlouis&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=YTlowlouis&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=YTlowlouis&icon=0&color=db87b3)](https://visitcount.itsvg.in)
